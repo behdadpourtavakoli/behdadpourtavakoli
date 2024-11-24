@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @behdadpourtavakoli, a Computer software engineer in Artificial Intelligence and a Software Developer expert
-- 👀 I’m interested in C#, Delphi, C++, JavaScript, PHP, ASP .Net, VB .Net, SQL, Python, and Java
-- 🌱 I’m currently learning Python, Java.
+- 👀 I’m interested in C#, Delphi, Python, PHP, VB .Net, C++, JavaScript, ASP .Net, SQL, and Java
+- 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on software development by c# team
 - 📫 How to reach me by bpourtavakoli@gmail.com
 
