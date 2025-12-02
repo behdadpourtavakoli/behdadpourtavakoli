@@ -10,9 +10,6 @@
 Let’s connect and grow together — feel free to reach out for collaborations, discussions, or just to chat about technology! 🚀
 
 Skills And Tools :
-- Database Skills:
-    👀 MS SQL Server, MySQL, SQLite, Postgres, Redis, MongoDB
-
 ⭐ Database Skills
     ✅ MS SQL Server, MySQL, SQLite, Postgres, Redis, MongoDB
 
