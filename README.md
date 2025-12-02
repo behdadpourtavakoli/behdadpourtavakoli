@@ -1,7 +1,6 @@
 **👋 Hi, I’m Behdad Pourtavakoli, a Computer software engineer and full-stack developer in the field of artificial intelligence.**
 
 💡 Tech Stack
-
     🐍 Primary Languages: C# (MVC Core), Python (FastAPI, Flask, Django), JavaScript (Node.js & React.js)
     👀 Other Interests: Visual Pascal (Delphi), C++, PHP (Codeigniter)
 
@@ -12,4 +11,8 @@ Let’s connect and grow together — feel free to reach out for collaborations,
 
 Skills And Tools :
 - Database Skills:
-    MS SQL Server, MySQL, SQLite, Postgres, Redis, MongoDB
+    👀 MS SQL Server, MySQL, SQLite, Postgres, Redis, MongoDB
+
+⭐ Database Skills
+    ✅ MS SQL Server, MySQL, SQLite, Postgres, Redis, MongoDB
+
