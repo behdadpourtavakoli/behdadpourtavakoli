@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @behdadpourtavakoli, a Computer software engineer in Artificial Intelligence and a Software Developer expert
-- 👀 I’m interested in C# .NET, Python, PHP, SQL-Server, MySQL, ASP.NET, Delphi, C++, VB .NET, Java, and HTML mit JavaScript, CSS, Ajax, JQuery and Bootstrap.
-- 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on software development by c# team
+- 👋 Hi, I’m Behdad Pourtavakoli, a Computer software engineer and full-stack developer in the field of artificial intelligence.
+
+💡 Tech Stack
+
+    🐍 Primary Languages: C# (MVC Core), Python (FastAPI, Flask, Django), JavaScript (Node.js & React.js)
+    👀 Other Interests: Visual Pascal (Delphi), C++, PHP (Codeigniter)
+
+- 🤝 I’m looking to collaborate on software development with the C# and Python teams.
 - 📫 How to reach me by bpourtavakoli@gmail.com
 
-<!---
-behdadpourtavakoli/behdadpourtavakoli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Let’s connect and grow together — feel free to reach out for collaborations, discussions, or just to chat about technology! 🚀
+
+Skills And Tools :
+- Database Skills:
+    MS SQL Server, MySQL, SQLite, Postgres, Redis, MongoDB
